@@ -22,4 +22,4 @@ To run tests:
 
 2. You need to translate this function in a JS format, performing the same, no web3 calls are allowed.
    The translated function in JS format can be found in the [main.js file](./main.js).
-   You can also check the tests written to make sure the translate function works as expected in the [test/encryptDecrypt.js](./test/encryptDecrypt.js). Run `npx hardhat test` to run them.
+   You can also check the tests written to make sure the translate function works as expected in the [test/encryptDecrypt.js](./test/encryptDecrypt.js). Use `npx hardhat test` command to run them.
