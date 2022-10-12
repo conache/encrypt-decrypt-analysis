@@ -1,6 +1,6 @@
 # 🌱 Project idea
 
-You can find the project idea checking the pdf file at `assessment/WEB_3_.pdf`.
+You can find the project idea checking the pdf file at [assessment/WEB_3\_.pdf](./assessment/WEB_3_.pdf).
 
 # 🚀 Development instructions
 
